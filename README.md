@@ -12,7 +12,7 @@ To demonstrate this code, the dataset from **Robocall Audio from the FTC’s Pro
 
 ## How to run this example?
 
-- Extract the raw audio recordings in the `FTC-raw-audio-ppone-normalized.zip` file.
+- Extract the raw audio recordings in `FTC-raw-audio-ppone-normalized.zip` ([Google Drive link](https://drive.google.com/file/d/1ku__-U2VQleHfeuxA06b06cqP9w16ha-/view?usp=sharing)) or download audio files from [robocall-audio-dataset](https://github.com/wspr-ncsu/robocall-audio-dataset).
 - Install the relevant dependencies
 - Run the example code `Robocall_Campaign_Detection_GPU_and_CPU.py`
 
